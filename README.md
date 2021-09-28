@@ -3,6 +3,13 @@
 This is an onboarding document for everyone to read in day one!
 
 
+## Purpose
+
+- Help developers build a professional ready resume and cover letter in English stey by step
+- Exercise Email and/or Slack interactions in English working environment
+- Build new features for a project to understand the work flow and collaboration with teammates in English environment
+
+
 ## Basic Rules & Regulations
 
 - Read this guidelines to have a good understanding of the camp
@@ -10,6 +17,14 @@ This is an onboarding document for everyone to read in day one!
 - The target is to simulate English working environment as much as possible
 - Feel free to ask questions in Slack channels
 - Please be nice and friendly to each other and try to help each other to have a good learning experience
+
+
+## Way of Work
+
+The training camp will mix with tasks, online lectures and coding practice, etc. The **courses** folder in this repo contains tasks for each week, it is recommended to work on one task per day, but feel free to adjust on your own pace. 
+
+To work on tasks, please **fork** this repository into your own GitHub namespace, and try to answer at least **three** questions for each task in the same file and send a Pull Request, the coach will help to review the solutions, *Note: the solutions will not be merged*
+
 
 
 ## Slack
