@@ -1,6 +1,6 @@
 # Apply a position
 
-Below is the Job description for a software developer role, assuming you are going to apply this position, try to use the resume and cover letter you have built in previous sessions.
+Below is the Job description for a software developer role, assuming you are going to apply this position, try to use the resume and cover letter you have built in previous sessions, and send your application to the coach via Slack direct message, and attach your CV and CL.
 
 
 ## Background
