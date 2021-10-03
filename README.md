@@ -31,11 +31,9 @@ To work on tasks, please **fork** this repository into your own GitHub namespace
 
 In **Eleduck Camp** Slack, there are a few channels:
 
-- **general_notification** is used to make announcement or send notification for everyone in the Eleduck Camp Slack.
-- **daily_assignment** is used to publish daily tasks by the coach, and interact with students. Feel free to discuss and ask questions in this channel if they are related to the daily assignment.
-- **techtalk** is used for anything around technical topics, we will invite external contributors to join and actively reply questions in this channel.
-- **random** is used for anything else, e.g. jokes, funny images, relaxing topics.
-- 将最后两个channel 合并为一个："english talk",    在这里，你可以用英语和我们邀请来的很多贡献者交流包括但不限于英语学习、面试求职、移民留学、海外生活等相关话题。
+- **announcement** is used to make announcement or send notification for everyone in the Eleduck Camp Slack.
+- **daily_task** is used to discuss daily tasks and interact between the coach and students. Feel free to ask questions in this channel if they are related to the daily assignments.
+- **english_talk** is used for anything around English topics, we will invite external contributors to join and actively reply questions in this channel.
 
 
 ## GitHub
