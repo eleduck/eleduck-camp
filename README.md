@@ -5,7 +5,7 @@ This is an onboarding document for everyone to read in day one!
 
 ## Purpose
 
-- Help developers build a professional ready resume and cover letter in English stey by step
+- Help developers build a professional ready resume and cover letter in English step by step
 - Exercise Email and/or Slack interactions in English working environment
 - Build new features for a project to understand the work flow and collaboration with teammates in English environment
 
