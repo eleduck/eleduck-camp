@@ -14,4 +14,5 @@
 - Deploy to [Netlify](https://www.netlify.com/)
 
 
+**Note:** Please work on your individual branch  
 ps: There are a few existing task on the [board](https://github.com/eleduck/covid19/projects/1), feel free to reuse any.
