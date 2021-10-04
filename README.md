@@ -33,7 +33,7 @@ In **Eleduck Camp** Slack, there are a few channels:
 
 - **announcement** is used to make announcement or send notification for everyone in the Eleduck Camp Slack.
 - **daily_task** is used to discuss daily tasks and interact between the coach and students. Feel free to ask questions in this channel if they are related to the daily assignments.
-- **english_talk** is used for anything around English topics, we will invite external contributors to join and actively reply questions in this channel.
+- **english_chat** is used for anything around English topics, we will invite external contributors to join and actively chat and disccuss in this channel.
 
 
 ## GitHub
