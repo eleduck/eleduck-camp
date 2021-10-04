@@ -1,4 +1,9 @@
-# Questions - Introduce yourself
+# Reading
+
+ - [How to write a CV as a software developer](https://learnitmyway.medium.com/how-to-write-a-cv-as-a-software-developer-8841a79f8458)
+
+
+# Writing - Introduce yourself
 
 - Introduce yourself, talk about your current city, profession, hobby, etc.
 - What is your education background? School, university, training, certificates, etc.

@@ -1,4 +1,9 @@
-# Questions - Talk about your work
+# Reading
+
+- [How to write a Software Developer CV](https://www.wearedevelopers.com/magazine/quick-guide-how-to-write-a-software-developer-cv)
+
+
+# Writing - Talk about your work
 
 - Talk about your current working situation.
 - How many members are in your team?

@@ -1,4 +1,10 @@
-# Questions - Linux Basics
+# Reading
+
+- [Linux Commands Cheat Sheet](https://www.linuxtrainingacademy.com/linux-commands-cheat-sheet/)
+- [The Art of Command Line](https://github.com/jlevy/the-art-of-command-line)
+
+
+# Writing - Linux Basics
 
 - How to check all 'unzip' commands previously run by the user you are currently connected to ?
 - What is the difference between Telnet and SSH?

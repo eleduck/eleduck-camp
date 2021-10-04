@@ -1,4 +1,8 @@
-# Questions to build up your cover letter
+# Reading
+
+- [Why Should We Hire You](https://novoresume.com/career-blog/why-should-we-hire-you-best-answers)
+
+# Writing - Build up Cover Letter
 
 -  Why did you apply for the job? 
 -  Why do they offer you the job? answer following three questions

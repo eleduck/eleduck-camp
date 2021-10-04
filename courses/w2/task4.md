@@ -1,4 +1,9 @@
-# Questions  Time Management Skills
+# Reading
+
+- [Remote Job Interview](https://www.themuse.com/advice/interview-questions-remote-work )
+
+
+# Writing - Time Management
 
 - Tell me about a time you had to be very strategic in order to meet all your top priorities.
 - Describe a long-term project that you managed. How did you keep everything moving along in a timely manner?

@@ -1,4 +1,9 @@
-# Questions - Ability to Adapt
+# Reading
+
+- [Work under pressure](https://www.glassdoor.com/blog/guide/how-do-you-work-under-pressure/)
+
+
+# Writing - Ability to Adapt
 
 - Tell me about a time you were under a lot of pressure. What was going on, and how did you get through it?
 - Describe a time when your team or company was undergoing some change. How did that impact you, and how did you adapt?

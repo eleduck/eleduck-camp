@@ -1,4 +1,9 @@
-# Questions - Vue Basics
+# Reading
+
+- [Vue](https://vuejs.org/v2/guide/)
+
+
+# Writing - Vue Basics
 
 - What are the conditional directives?
 - What is the purpose of v-for directive?

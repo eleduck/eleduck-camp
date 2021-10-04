@@ -1,4 +1,10 @@
-# Questions about teamwork
+# Reading
+
+- [Teamwork](https://www.job-applications.com/interview-questions/describe-a-time-when-you-had-to-work-as-part-of-a-team/)
+
+
+# Writing
+## Teamwork
 
 - Talk about a time when you had to work closely with someone whose personality was very different from yours.
 - Give me an example of a time you faced a conflict while working in a team. How did you handle that?
@@ -8,7 +14,8 @@
 - Give an example of how you work in a team.
 - What do you do if you disagree with someone in your work?
 
-# Questions about comunication
+
+## Comunication
 
 - Give me an example of a time when you were able to successfully convince someone doing things in your way at work.
 - Describe a time when you were the resident technical expert. What did you do to make sure everyone was able to understand you?
