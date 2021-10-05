@@ -40,5 +40,5 @@ In **Eleduck Camp** Slack, there are a few channels:
 
 - We will use this [GitHub Project Board](https://github.com/eleduck/covid19/projects/1) to simulate an Agile Development Board
 - We will work together on a [project](https://github.com/eleduck/covid19) to implement some cool features
-- Last but not least, we have an awesome [list](https://github.com/eleduck/English4Developers) we plan to open source in the long run, feel free to contributor
+- Last but not least, we have an awesome [list](https://github.com/eleduck/English4Developers) we plan to open source in the long term, feel free to contribute!
 
