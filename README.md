@@ -21,7 +21,7 @@ This is an onboarding document for everyone to read in day one!
 
 ## Way of Work
 
-The training camp will mix with tasks, online lectures and coding practice, etc. The **courses** folder in this repo contains tasks for each week, it is recommended to work on one task per day, but feel free to adjust on your own pace. 
+The training camp will mix with tasks, online lectures and coding practice, etc. The **courses** folder in this repo contains courses schedule and tasks for each week, it is recommended to work on one task per day, but feel free to adjust on your own pace. 
 
 To work on tasks, please create a **separate branch** in this repository, and try to answer at least **three** questions for each task in the same file and send a Pull Request, the coach will help to review the solutions. **Important**: Please DO **NOT** push to **main** branch, work ONLY on your own branch, your PR will NOT be merged.
 
