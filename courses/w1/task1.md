@@ -10,3 +10,6 @@
 - What do you do in your spare time?
 - What is your short term plan and long term plan?
 - What is important to you in your life?
+
+My name is Winnie Wen,a front-end development engineer,from WuHan China.WuHan is a stove in the summer and an icehouse in the winter.
+
