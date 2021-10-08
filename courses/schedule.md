@@ -18,7 +18,7 @@
 -   D3: Reading & Writing practice - Ability to Adapt
 -   D4: Reading & Writing practice - Teamwork & Communication
 -   D5: Reading & Writing practice - Time Management
--   D6: Apply a job position based on JD
+-   D6: Apply a job position based on the [JD](w2/task5.md)
 -   D7: Online lecture - Sunny
 
 
