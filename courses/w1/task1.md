@@ -6,7 +6,7 @@
 # Writing - Introduce yourself
 
 - Introduce yourself, talk about your current city, profession, hobby, etc.
-  my name is zhangbin , living in shanghai 。born in guizhou ，I am a front-end engineer by profession
+  My name is zhangbin ,I am living in Shanghai ,I was born in Guizhou ，I am a front-end engineer by profession
   My hobbies are: skiing, paragliding, meditation
 
 - What is your education background? School, university, training, certificates, etc.
@@ -18,23 +18,23 @@
   intend to take the aws certificate
 
 - What do you do in your spare time?
-  watch youtube.
-  Foreign bloggers, Culture of different countries
-  Computer bloggers, improve myself
-  Digital reviews, buying new work equipment
+  Watching YouTube.
+  Reading foreign blogger to explore culture of different countries.
+  Improving my development skills by reading technical bloggers
+  Reading customers' reviews, so that I can buy new work equipments wisely.
   Game reviews, hobby
-  Writing about my own projects, improving myself ,trying out new technology stacks
+  Working on my own projects to improve my skills, and trying out new technical stacks.
   Exercise: stay healthy, lose weight, see the sights
   Travel, find good food，take photos on the side
 
 - What is your short term plan and long term plan?
   Technical growth, more professional front-end engineer, to become a full-stack, cto.
-  Develop complete own amateur projects. Distributed online editor and blogging system
-  Developing web mini-games using webgl.
+  Developing my own hobby project, which is a distributed online editing and blogging system
+  Developing online mini-games using webgl.
   Doing some artistic works like games, painting, architecture. Good photography.
-  Be an artist, a philanthropist.
+  Becoming an artist, a philanthropist.
 - What is important to you in your life?
   Spending time with my family, taking my parents on occasional trips, and eating good food with my girlfriend.
   Meet more interesting friends and develop more hobbies. Learn more.
   Stay healthy and in a good mood.
-  If possible, create something that improves the lives of others.
+  If possible, to create something that improves the lives of others.
