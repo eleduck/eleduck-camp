@@ -8,9 +8,9 @@
 # Writing - Introduce yourself
 
 - Introduce yourself, talk about your current city, profession, hobby, etc.  
-My name is Roy. I currently live in Dalian and working in an IoT company. I am mainly work on back-end development for the IoT platform. I have experience in cloud-based microservice architecture. Hobbies are piano and electronic products related to smart home.
+    - My name is Roy. I currently live in Dalian and working in an IoT company. I am mainly work on back-end development for the IoT platform. I have experience in cloud-based microservice architecture. Hobbies are piano and electronic products related to smart home.
 
-Dalian is the warmest city in Northeast China. The weather is pleasant with four seasons, and the summer is not too hot, winter not too cold. The yearly average temperature is 10 degrees Celsius. The hottest month is August, with average temperature at 25 degrees.
+    - Dalian is the warmest city in Northeast China. The weather is pleasant with four seasons, and the summer is not too hot, winter not too cold. The yearly average temperature is 10 degrees Celsius. The hottest month is August, with average temperature at 25 degrees.
 
 - What is your education background? School, university, training, certificates, etc.
 - What do you do in your spare time?  
