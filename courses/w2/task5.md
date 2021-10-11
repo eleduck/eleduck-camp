@@ -17,7 +17,7 @@ You will be responsible for designing and developing a project, mainly focusing 
 - A couple of years work experience developing software
 - Knowledge of front end development, including responsive design, Single Page  Applications and using modern JavaScript frameworks such as React, Vue, Angular JS.
 - Knowledge of HTML5 and CSS along with tools and libraries, e.g Bootstrap, jQuery.
-- Have good understanding Microservices and/or Service Oriented Architectures
+- Have good understanding Microservice and/or Service Oriented Architecture
 - Understanding of multiple languages, e.g. JavaScript, Python, Java, Shell, etc.
 - Experience of developing code with AWS, Google Cloud, Azure, or other major cloud providers
 - Like clean code and manage code with version control e.g. GIT

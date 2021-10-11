@@ -1,6 +1,6 @@
 # Welcome to Eleduck Camp 欢迎来到电鸭英语训练营
 
-**This is an onboarding document for everyone to read in day one!**
+**This is an on-boarding document for everyone to read in day one!**
 
 
 ## Purpose
@@ -33,7 +33,7 @@ In **Eleduck Camp** Slack, there are a few channels:
 
 - **announcement** is used to make announcement or send notification for everyone in the Eleduck Camp Slack.
 - **daily_task** is used to discuss daily tasks and interact between the coach and students. Feel free to ask questions in this channel if they are related to the daily assignments.
-- **english_chat** is used for anything around English topics, we will invite external contributors to join and actively chat and disccuss in this channel.
+- **english_chat** is used for anything around English topics, we will invite external contributors to join and actively chat and discuss in this channel.
 
 
 ## GitHub
