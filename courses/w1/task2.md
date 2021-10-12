@@ -24,7 +24,7 @@ In the future, I want to work with Java, Golang with microservice architecture, 
 - Talk about your favorite editor  
 My favorite editor is Intellij.
 - Talk about your favorite open source project.  
-My favorite open source project is Asahi Linux. It is a project with the goal of porting Linux to Apple Silicom Macs. The Apple Silicom is an entirely undocumented platform, the community should make reverse engineering the Apple GPU architecture and developing an open-source driver for it. It is so cool, I like it.
+My favorite open source project is Asahi Linux. It is a project with the goal of porting Linux to Apple Silicon Macs. The Apple Silicon is an entirely undocumented platform, the community should make reverse engineering the Apple GPU architecture and developing an open-source driver for it. It is so cool, I like it.
 - Tell me about a typical day at work.  
 After I arrive at the office in the morning, I usually take a look at the monitoring of the production environment first, then update the status of my tasks on the Kanban, and prepare a little bit for the stand-up meeting, after the 15-minute meeting, I will focus on my development tasks, and occasionally needed to deal with the alarm of the production environment and investigate the problems.
 - How do you work with your teammates?
