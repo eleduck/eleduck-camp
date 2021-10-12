@@ -1,0 +1,10 @@
+{
+  "dictionaries": ["eleduck-words"],
+  "dictionaryDefinitions": [
+    {
+      "name": "eleduck-words",
+      "path": "./.cspell/eleduck-words.txt",
+      "addWords": true
+    }
+  ]
+}

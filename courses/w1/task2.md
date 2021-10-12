@@ -28,4 +28,4 @@ My favorite open source project is Asahi Linux. It is a project with the goal of
 - Tell me about a typical day at work.  
 After I arrive at the office in the morning, I usually take a look at the monitoring of the production environment first, then update the status of my tasks on the Kanban, and prepare a little bit for the stand-up meeting, after the 15-minute meeting, I will focus on my development tasks, and occasionally needed to deal with the alarm of the production environment and investigate the problems.
 - How do you work with your teammates?
-- How do you work with your cross-funtional teams?
+- How do you work with your cross-functional teams?
