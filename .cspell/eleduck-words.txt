@@ -5,4 +5,7 @@ kanban
 Kubernetes
 Intellij
 Asahi
+Laravel
+Tencent
+Feishu
 MyBatis
