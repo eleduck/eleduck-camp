@@ -7,7 +7,7 @@
 
 - Introduce yourself, talk about your current city, profession, hobby, etc.
   My name is zhangbin ,I am living in Shanghai and working in an sass company ,
-  My mainly work on frontend development for the sass website.
+  I mainly work on frontend development for the sass website.
   I was born in Guizhou Province ， which is a quite small town,
   There are hills everywhere, whether you're going to school or shopping, you're either going uphill or downhill
   I am a front-end engineer by profession
