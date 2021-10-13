@@ -1,0 +1,7 @@
+Eleduck
+nuxt
+chartjs
+kanban
+Kubernetes
+Intellij
+Asahi
