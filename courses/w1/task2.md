@@ -35,5 +35,5 @@
 - How do you work with your teammates?
   A lot of times, We use Feishu to communicate. It's a comprehensive software. We can use it for a meeting, chat, document, remind, etc.
 
-- How do you work with your cross-funtional teams?
+- How do you work with your cross-functional teams?
   We usually use WeChat and Tencent meetings. Because almost everyone in China uses WeChat. We can easily communicate with everyone.

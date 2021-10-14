@@ -23,7 +23,7 @@
   3. Pass the PMP certificate;
   Long term plan:
   1. Broaden income channels;
-  2. Keepin learning and practising English;
+  2. Keep in learning and practicing English;
   3. Get deeper understanding of my professional area;
   4. Thinking about how to make life more meaningful;
 

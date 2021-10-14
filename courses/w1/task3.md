@@ -9,7 +9,7 @@
   Mainly doing physical store expansion business. Serving hundreds of companies. Help them find new customers more easily.
 
 - Which is your favorite project and why?
-  I like that helps the physical store expansion business. Because it can enable more small and medium-sized enterprises to participate in the process of informatization. 
+  I like that helps the physical store expansion business. Because it can enable more small and medium-sized enterprises to participate in the process of informationization. 
 
 - What tech stack have you used before?
   Project management tools: Jira, Phabricator, Gitlab
