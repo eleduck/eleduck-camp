@@ -8,23 +8,23 @@
 # Writing - Introduce yourself
 
 - Introduce yourself, talk about your current city, profession, hobby, etc.
-  My name is Han Wenbo. I'm from Zhengzhou, Henan Province, a full-stack engineer, the main direction of the backend is Golang and PHP, the frontend is VUE. I like to travel, do sports, try new things and make friends, if you come to Zhengzhou, I can show you the delicacies and scenery of Henan.
+  My name is Han Wenbo, and I'm from Zhengzhou, Henan Province. I work as a full-stack engineer, I use Golang and PHP for the backend development and Vue.js for the frontend. I like travelling, doing sports, trying new things and making new friends, if you visit Zhengzhou one day, I can show you the delicacies and scenery of Henan.
 
 - What is your education background? School, university, training, certificates, etc.
   I have a bachelor degree and graduated from the Zhongyuan University of Technology, and I got the Henan Province Outstanding Graduate Certificate. My skills and experience come from school, work, and self-study. I think applying what we have learned can quickly improve our skills.
 
 - What do you do in your spare time?
-  In my spare time, I like to do some interesting projects, study new skills, go where I haven't gone, eat what I haven't eaten.
+  I like doing some interesting projects, learning new skills, visiting new places and trying new food.
 
 - What is your short term plan and long term plan?
   Short term plan: 
   1. Expand blockchain knowledge;
-  2. Passed the teacher qualification certificate;
-  3. Passed the PMP certificate;
+  2. Pass the teacher qualification certificate;
+  3. Pass the PMP certificate;
   Long term plan:
   1. Broaden income channels;
-  2. Keep learning and use of English;
-  3. Be able to go deeper in my field;
+  2. Keepin learning and practising English;
+  3. Get deeper understanding of my professional area;
   4. Thinking about how to make life more meaningful;
 
 - What is important to you in your life?

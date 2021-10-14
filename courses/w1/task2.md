@@ -21,7 +21,7 @@
   I'm good at communication and have a strong development ability. I'm familiar with the whole process of the web project. I can assure you that the project will proceed as expected.
 
 - What techniques/languages do you want to work with in the future?
-  I ofen use Golang and PHP. I think they are better languages. Although PHP is older, but it's more efficient. Although Golang is newer, but it has more fun.
+  I often use Golang and PHP. I think they are better languages. Although PHP is older, it's more efficient. Although Golang is newer, it has more fun.
   
 - Talk about your favorite editor
   VS Code and JetBrains, One is small and classic, the other is big and comprehensive. Both of them are great editors.
