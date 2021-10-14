@@ -25,6 +25,10 @@ The training camp has four weeks as a period. And there will be one squeeze day 
 
 To work on tasks, please create a **separate branch** in this repository, and try to answer at least **three** questions for each task in the same file and send a Pull Request, the coach will help to review the solutions. **Important**: Please DO **NOT** push to **main** branch, work ONLY on your own branch, your PR will NOT be merged.
 
+And it is good to name the title of your PR with your GitHub name, so that it is easier for the coach to keep track of the tasks progress.
+
+Furthermore, we have a spelling check which will be automatic triggered by push and PRs. If you want to add new words that are not recognized yet, feel free to update the [dictionary](https://github.com/eleduck/eleduck-camp/blob/main/.cspell/eleduck-words.txt) file and send a separate PR, we can review and merge it.
+
 
 
 ## Slack
