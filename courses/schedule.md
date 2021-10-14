@@ -9,7 +9,7 @@
 -   D5: Reading & Writing task - Describe about your previous work and projects
 -   D6: Reading & Writing task - Form up your resume
 -   D7: Online lecture - CJ
--   Squeeze Day
+-   Squeeze Day (1 to 3 days depends on progress)
 
 
 ### Week 2: Cover Letter & Interview Skills
@@ -21,7 +21,7 @@
 -   D5: Reading & Writing practice - Time Management
 -   D6: Apply a job position based on the [Job Description](w2/task5.md)
 -   D7: Online lecture - Sunny
--   Squeeze Day
+-   Squeeze Day (1 to 3 days depends on progress)
 
 
 ### Week 3: Technical Interview Questions
@@ -33,7 +33,7 @@
 -   D5: Reading & Writing task - Vue
 -   D6: Reading & Writing task - Nuxt
 -   D7: Online lecture - CJ
--   Squeeze Day
+-   Squeeze Day (1 to 3 days depends on progress)
 
 
 ### Week 4: Coding & Collaboration on a real project
