@@ -28,4 +28,7 @@ My favorite open source project is Asahi Linux. It is a project with the goal of
 - Tell me about a typical day at work.  
 After I arrive at the office in the morning, I usually take a look at the monitoring of the production environment first, then update the status of my tasks on the Kanban, and prepare a little bit for the stand-up meeting, after the 15-minutes meeting, I will focus on my development tasks, and occasionally needed to deal with the alarm of the production environment and investigate the problems.
 - How do you work with your teammates?
+    - On the first day of each sprint, our team will hold a sprint planning meeting. The team will decompose tasks from high-priority tasks and put them into the sprint backlog. The team will discuss the design of each requirement at this meeting.
+    - Every morning we will have a stand-up meeting where the team syncs their status, and everyone has to answer three questions, What did you do yesterday? What will you do today? Is there anything blocking you?
 - How do you work with your cross-functional teams?
+In the sprint plan meeting, the team will discuss the requirements together. Professionals in different fields will give opinions from a professional perspective. If problems are encountered during the development process, we will communicate in the daily meeting, or use pair programming to solve the problem.

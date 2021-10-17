@@ -12,11 +12,13 @@
 
     - Dalian is the warmest city in Northeast China. The weather is pleasant with four seasons, and the summer is not too hot, winter not too cold. The yearly average temperature is 10 degrees Celsius. The hottest month is August, with average temperature at 25 degrees.
 
-- What is your education background? School, university, training, certificates, etc.
+- What is your education background? School, university, training, certificates, etc.  
+I graduated from Shenyang Jianzhu University in 2007 with a bachelor's degree in Computer Science and Technology. 
 - What do you do in your spare time?  
     - In my spare time, I recently reset my router at home and installed PVE, OpenWrt, VPN.
     - Mountain bike riding is my favorite sport.
 
 - What is your short term plan and long term plan?  
-The short-term plan is to find a new job, locally or remotely, and the long-term plan is to make some contributions to an open source community.
-- What is important to you in your life?
+The short-term plan is to find a new job, locally or remotely, and the long-term plan is to become an architect through continuous learning of operating systems, databases, microservices, data structure, algorithms, and other knowledge.
+- What is important to you in your life?  
+Family is more important. Since I was in college, like many people, I have been far away from home and my parents. I went to an unfamiliar city to study and work. And my child will be born next month. I feel more and more that I should spend more time with family.
