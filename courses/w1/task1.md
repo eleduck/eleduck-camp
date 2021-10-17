@@ -11,5 +11,9 @@
 - What is your short term plan and long term plan?
 - What is important to you in your life?
 
-My name is Winnie Wen,a front-end development engineer,from WuHan China.WuHan is a stove in the summer and an icehouse in the winter.
+My name is Winnie Wen,a front-end development engineer,from WuHan China.WuHan is a stove in the summer and an icehouse in the winter.I'm a frontend engineer,with more than three years' work experience.My hobbies are playing games and reading.
+I studied at WuHan College for four years.In my spare time,I like to learn react and English.
+Currently,I work to earn money,learn English and react as much as possible.In the coming year,I will seek a remote job.I will do remote job until I could'n find a remote job.
+At the present stage,the most important thing in my life is improving my ability to get a remote job.
+
 
