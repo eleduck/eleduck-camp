@@ -19,6 +19,6 @@ I graduated from Shenyang Jianzhu University in 2007 with a bachelor's degree in
     - Mountain bike riding is my favorite sport.
 
 - What is your short term plan and long term plan?  
-The short-term plan is to find a new job, locally or remotely, and the long-term plan is to become an architect through continuous learning of operating systems, databases, microservices, data structure, algorithms, and other knowledge.
+The short-term plan is to find a new job, locally or remotely, and the long-term plan is to become an architect through continuous learning of operating systems, databases, microservice, data structure, algorithms, and other knowledge.
 - What is important to you in your life?  
 Family is more important. Since I was in college, like many people, I have been far away from home and my parents. I went to an unfamiliar city to study and work. And my child will be born next month. I feel more and more that I should spend more time with family.
