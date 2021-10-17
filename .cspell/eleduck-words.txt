@@ -10,6 +10,6 @@ Tencent
 Feishu
 Flink
 webgl
-dono
+deno
 Spacemacs
 SpaceVim
