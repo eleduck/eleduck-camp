@@ -24,7 +24,7 @@ It's Vue,a JavaScript framework for building UI on the web.
 - Tell me about a typical day at work.
 9:00AM to 9:20AM:  A project meeting,about today's to do list;
 9:20AM to 12:00AM: Work;
-12:00AM to 1:30PM: Have a lunch and take a nap;
+12:00AM to 1:30PM: Have lunch and take a nap;
 1:30PM to 6:00PM:  Work;
 - How do you work with your teammates?
 We use Work Wechat to communicate,TAPD to manage the projects.
