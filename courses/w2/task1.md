@@ -9,7 +9,7 @@ I believe that my experience with technology, specifically in the java backend s
 
 -  Why do they offer you the job? answer following three questions
       - Can you do the job?   （technical skills）  
-      I have more than 10 years of java experience, and I am very familiar with core java. I have a lot of experience in muti-thread programming. I have always been concerned about the new features of JDK, such as the loom project. I also have a lot of experience in MySQL and time-series databases. I believe I can do this job.
+      I have more than 10 years of java experience, and I am very familiar with core java. I have a lot of experience in multithreading programming. I have always been concerned about the new features of JDK, such as the loom project. I also have a lot of experience in MySQL and time-series databases. I believe I can do this job.
       - Are you good fit for the team  （soft skills）  
       I have 3 years of working experience in agile teams, and I am familiar with how agile teams work, so I can integrate into the team relatively quickly.
       - Do they like you   （Interest）  
