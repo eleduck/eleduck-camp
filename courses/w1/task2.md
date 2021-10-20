@@ -15,7 +15,7 @@
 - Talk about your favorite open source project.
 - Tell me about a typical day at work.
 - How do you work with your teammates?
-- How do you work with your cross-funtional teams?
+- How do you work with your cross-functional teams?
 
 # Talk about your work
 

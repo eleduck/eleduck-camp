@@ -1,6 +1,6 @@
 # Welcome to Eleduck Camp 欢迎来到电鸭英语训练营
 
-This is an onboarding document for everyone to read in day one!
+**This is an on-boarding document for everyone to read in day one!**
 
 
 ## Purpose
@@ -21,9 +21,13 @@ This is an onboarding document for everyone to read in day one!
 
 ## Way of Work
 
-The training camp will mix with tasks, online lectures and coding practice, etc. The **courses** folder in this repo contains courses schedule and tasks for each week, it is recommended to work on one task per day, but feel free to adjust on your own pace. 
+The training camp has four weeks as a period. And there will be one squeeze day at the end of each week, to align with all students, in case someone was delayed with tasks by any reasons. The training camp will mix with tasks, online lectures and coding practice, etc. The **courses** folder in this repo contains courses schedule and tasks for each week, it is recommended to work on one task per day, but feel free to adjust on your own pace. 
 
 To work on tasks, please create a **separate branch** in this repository, and try to answer at least **three** questions for each task in the same file and send a Pull Request, the coach will help to review the solutions. **Important**: Please DO **NOT** push to **main** branch, work ONLY on your own branch, your PR will NOT be merged.
+
+And it is better to name the title of your PR with your GitHub name with week number as suffix, e.g. HarryPotter-Week1, so that it is easier for the coach to keep track of the tasks progress. And close the former PR before creating a new one for next week.
+
+Furthermore, we have a spelling check which will be automatic triggered by push and PRs. If you want to add new words that are not recognized yet, feel free to update the [dictionary](https://github.com/eleduck/eleduck-camp/blob/main/.cspell/eleduck-words.txt) file and send a separate PR, we can review and merge it.
 
 
 
@@ -33,7 +37,7 @@ In **Eleduck Camp** Slack, there are a few channels:
 
 - **announcement** is used to make announcement or send notification for everyone in the Eleduck Camp Slack.
 - **daily_task** is used to discuss daily tasks and interact between the coach and students. Feel free to ask questions in this channel if they are related to the daily assignments.
-- **english_chat** is used for anything around English topics, we will invite external contributors to join and actively chat and disccuss in this channel.
+- **english_chat** is used for anything around English topics, we will invite external contributors to join and actively chat and discuss in this channel.
 
 
 ## GitHub
