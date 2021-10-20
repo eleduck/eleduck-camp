@@ -1,7 +1,6 @@
 # Apply a position
 
-Below is the Job description for a software developer role, assuming you are going to apply this position, try to use the resume and cover letter you have built in previous sessions, and send your application to the coach via Slack direct message. Your submission can be 2 shared links to your Google Docs, pointing to your CV and CL separately.
-
+Below is the Job description for a software developer role, assuming you are going to apply this position, and try to use the resume and cover letter you have built in previous sessions. To do so, put your CL into a Google Doc and share it with the [coaches](../coaches.md), your CV is already shared with the coaches in week 1 [task 4](../w1/task4.md)
 
 ## Background
 
