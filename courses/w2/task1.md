@@ -13,4 +13,4 @@ I believe that my experience with technology, specifically in the java backend f
       - Are you good fit for the team  （soft skills）  
       I have 3 years of working experience in agile teams, and I am familiar with how agile teams work, so I can adapt to the team relatively quickly.
       - Do they like you   （Interest）  
-      My personality is relatively easy-going. I am studing smart home hardware in my spare time. I can share with you guys the knowledge, and I believe you will like it as I do.
+      My personality is relatively easy-going. I am studying smart home hardware in my spare time. I can share with you guys the knowledge, and I believe you will like it as I do.
