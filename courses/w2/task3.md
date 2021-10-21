@@ -15,7 +15,7 @@ Once, a colleague in the customer service department, let's call him Bob. Bob co
 Once a colleague did not reply to my message, the next day I sent another message to remind him and make a phone call.
 - Give an example of how you work in a team.
 - What do you do if you disagree with someone in your work?  
-I will explain to him why I have different ideas, and I want to hear why he chose another option. This kind of situation is usually in the sprint planning metting, when other colleagues will be there, and we also listen to the opinions of other colleagues.
+I will explain to him why I have different ideas, and I want to hear why he chose another option. This kind of situation is usually in the sprint planning meeting, when other colleagues will be there, and we also listen to the opinions of other colleagues.
 
 ## Communication
 
