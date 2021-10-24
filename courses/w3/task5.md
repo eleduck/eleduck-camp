@@ -11,3 +11,4 @@
 - Create a “Hello world” nuxt project locally
 - Try other features if you have time
 
+ps: nothing needs to submit
