@@ -35,7 +35,7 @@
 - Give an example of how you work in a team.
   1. We will Synchronize yesterday's progress and today's plan every morning;
   2. Everyone's work will be displayed on the panel and the progress will be updated at any time;
-  3. If we encounter an urgent problem, we will meet temporarily to resolve it together;
+  3. If we encounter an urgent problem, we will work together to solve it;
   4. We all have a common goal to work hard;
 
 - What do you do if you disagree with someone in your work?
