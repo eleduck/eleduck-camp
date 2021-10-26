@@ -11,6 +11,6 @@ I believe that my experience with technology, specifically in the Java backend f
       - Can you do the job?   （technical skills）  
       I have more than 10 years of Java experience, and I am very familiar with core Java. I have a lot of experience in multithreading programming. I have always been interested in the new features of JDK, such as the loom project. I also have a lot of experience in MySQL and time-series databases. I believe I can do this job.
       - Are you good fit for the team  （soft skills）  
-      I have 3 years of working experience in agile teams, and I am familiar with how agile teams work, so I can adapt to the team successuflly.
+      I have 3 years of working experience in agile teams, and I am familiar with how agile teams work, so I can adapt to the team successfully.
       - Do they like you   （Interest）  
       My personality is relatively easy-going. I am studying smart home hardware in my spare time. I can share with you guys the knowledge, and I believe you will like it as I do.
