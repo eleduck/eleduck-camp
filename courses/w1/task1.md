@@ -16,12 +16,17 @@
 # Self-introduction
 
 My name is Yance, a frontend engineer who has five years of experience. 
-I lived in Shanghai now, one of the biggest cities in China. I like playing TFT  which is a strategy game both on PC/Mobile, and science fiction movies in my spare time. Like many peers, I love electronic music very much, always listen to it when taking the subway.
+I live in Shanghai now, which is one of the biggest cities in China. I like playing TFT, which is a strategy game both on
+PC/Mobile, and science fiction movies. Like many peers, I love electronic music very much, always listen 
+to it when taking the subway.
 
 I graduated from Hunan Engineering College in Jun 2016, got a bachelor of engineering degree. 
 
-My short-term plan is to take every lesson at Eleduck English Camp, to improve reading&writing English. Finish and submit each task in time. Remember as many as possible new words that relate to my profession.
+My short-term plan is to take every lesson at Eleduck English Camp, to improve reading&writing English. Finish and submit
+each task in time. Remember as many as possible new words that relate to my profession.
 
-The long-term plan is to find a full-time remote job or be a freelancer. Then I can go back to my hometown where is closer to my family and live in my own house. Take it a step further, I want to immigrate to Canada with my whole family.
+The long-term plan is to find a full-time remote job or be a freelancer. Then I can go back to my hometown where is closer
+to my family and live in my own house. Take it a step further, I want to immigrate to Canada with my whole family.
 
-Which is important in my life? This is a simple question for me right now: I want a work-life balance. That is why I started studying English, only work remotely can help me achieve it in China, and good English takes a hand.
+Which is important in my life? This is a simple question for me right now: I want a work-life balance. That is why I started
+studying English, only work remotely can help me achieve it in China, and good English takes a hand.
