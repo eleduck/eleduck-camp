@@ -9,12 +9,12 @@
 - Talk about a time when you had to work closely with someone whose personality was very different from yours.
 
 There was a time that I need to work with my co-workers closely. He was a short-tempered person, and it was not easy
-to accomplish the project with him.
+to accomplish the project with him. I have to adapted myself to his development steps.
 
 - Give me an example of a time you faced a conflict while working in a team. How did you handle that?
 
-I had a conflict with the product manager about the double dialogs, he wants to open a new dialog in the current dialog. 
-I think it is unnecessary to use a dialog because the second dialog only shows one sentence. It is more appropriate to use
+I had a conflict with the product manager about the double dialogs, he wanted to open a new dialog in the current dialog. 
+I think it was unnecessary to use a dialog because the second dialog only shows one sentence. It is more appropriate to use
 a popover, and I made two examples to persuade him. Finally, he took my advice.
 
 - Describe a time when you struggled to build a relationship with someone important. How did you eventually overcome that?
@@ -37,7 +37,8 @@ I often use examples to convince others, list some possible scenarios and discus
 
 - Describe a time when you were the resident technical expert. What did you do to make sure everyone was able to understand you?
 
-I start by understanding the skill orientation of the participants and try to describe the technical solution as easy to understand.
+I will try to learn more about the participants' technical background and skill orientation, and 
+then try to describe the technical solution as easy to understand.
 
 - Tell me about a time when you had to rely on written communication to get your ideas across to your team.
 
