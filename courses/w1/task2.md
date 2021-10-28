@@ -13,7 +13,7 @@ There are 9 people in our team.
 Our team is cross-functional, we have a few backend and front-end developers, one designer, one DBA and one mobile developer. Our team even has an embedded developer who also has the role of a backend developer.
 
 - What are your roles and responsibilities?
-    - I am mainly working on the backend development. Develop and maintain the protocol-parse service, process or forward or store data according to various business scenarios.
+    - I am mainly working on the backend development. Develop and maintain the protocol-parse service for the IoT platform, process or forward or store data according to various business scenarios.
     - I am also responsible for the data pushing service, push data to third-party partners.
     - I am taking scrum master role in the team as well.
 
