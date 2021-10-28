@@ -15,4 +15,4 @@ There are couples of commands that can check the memory usage, free, top, htop, 
 - Count every occurrence of the term “linux” in all the files appearing under the current directory, and its subdirectories, recursively?
 Add the option "r" after the grep command, it will scan the files recursively.
 - How to check which ports are listening in my Linux Server?
-For the system which installed iproute2, we can use ss command with options l to check which ports are listening, usually I use ntlp togather, the option n stands for not try to resolve port number to service names, the option t stands for filter the tcp protocol, the option p will print the process id.
+For the system which installed iproute2, we can use ss command with options l to check which ports are listening, usually I use "ntlp" options together, the option n stands for not try to resolve port number to service names, the option t stands for filter the tcp protocol, the option p will print the process id.
