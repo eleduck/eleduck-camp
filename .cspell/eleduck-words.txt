@@ -16,3 +16,6 @@ SpaceVim
 Wenbo
 Zhongyuan
 Phabricator
+MyBatis
+Jianzhu
+multithreading
