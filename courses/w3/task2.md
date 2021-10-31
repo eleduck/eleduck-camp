@@ -14,7 +14,7 @@ Git merge adds a new commit and preserves the history of the branch.
 Git rebase compresses all the changes into a single "path". Unlike merging, rebasing flattens history. 
 - Your changes yesterday have been merged, but it also introduces a new bug, the team agreed to remove it for now. What command to use?  
 If the team agreed, to remove the commit, we can use git reset double-dash hard and the HEAD to the previous commit, the push to the remote repo with the force option.
-To aviod force push, we can use "git revert" command with specified commit ID. It doesn't delete any commits, it creates a new revision that reverts the effects of a specified commit.
+To avoid force push, we can use "git revert" command with specified commit ID. It doesn't delete any commits, it creates a new revision that reverts the effects of a specified commit.
 - How to update the latest commit message in your local repo?  
 Use the "git commit" command with the double-dash amend option, we can update the latest commit message.
 - How to update the 2nd latest commit message in your local repo?  
