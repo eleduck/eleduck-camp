@@ -12,4 +12,4 @@
   A void element is an element whose content model never allows it to have contents under any circumstances. For example, `<br/>`, `<hr/>`, etc.
 
 - What is the difference between the ‘id’ attribute and the ‘class’ attribute of HTML elements?
-  The ‘id’ attribute is unique in html, the class attribute can multiple.
+  The ‘id’ attribute is unique in HTML, the class attribute can multiple.
