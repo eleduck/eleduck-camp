@@ -8,7 +8,7 @@
 # Writing - Daily Scrum
 
 - What did you do yesterday?
-  Yesterday I perfected the test case of the project, there are probably more than 200 cases.
+  Yesterday I perfected the test case of the project, there were probably more than 200 cases.
 
 - What will you do today?
   Today I will complete the unit test of the project.
