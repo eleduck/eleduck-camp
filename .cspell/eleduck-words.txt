@@ -16,3 +16,4 @@ SpaceVim
 MyBatis
 Jianzhu
 multithreading
+Vuetify
