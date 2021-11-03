@@ -35,3 +35,16 @@ You will be responsible for designing and developing a project, mainly focusing 
 ### Personal Qualities
  
 As a software engineer, it is highly important that you have a flexible and solution-oriented approach. You are communicative and strongly driven. Furthermore, you are result-oriented and want to work towards concrete goals to contribute to the team's success. We believe you are an analytical team member and well experienced within an information presentation. You will be a can-do attitude and are not afraid of taking responsibility to solve tricky problems. It is meritorious if you have an interest and experience in new technology.
+
+Dear:   
+&ensp;&ensp;&ensp;&ensp;I have found your recruitment information from Eleduck.com. I'm writing to apply for the front-end developer position at your company. I believe my four years of front-end development experience make me a great candidate for the job.  
+&ensp;&ensp;&ensp;&ensp;I have structured an e-commerce platform in which I do the front-end development independently. This project made me proficient in Vue.js/Vue-router/Vuex/Element UI.  
+&ensp;&ensp;&ensp;&ensp;In my secondary work experience at Yitu Tech which is an artificial intelligence company, I was responsible for developing and iterating the product named Face Platform. Face Platform used React and some related skills such as Redux/Ant Design/Redux-saga/Hooks on the front-end development.  
+&ensp;&ensp;&ensp;&ensp;Now, I worked in a financial leasing company responsible for the development of the internal system. The project is a micro frontend single page application using Vue/Vuex/qiankun/ElementUI/AntV-X6 etc.  
+&ensp;&ensp;&ensp;&ensp;I believe my work experience in frontend development makes me very suitable for this job. I'm a professional skilled front-end developer who can resolve problems efficiently in development. Difficult development tasks are not troubles but challenges for me，I will solve the tasks with my coworkers. And I am a good team player with a positive attitude. I am a good listener and my communication skills are great which makes me can understand product demands well.  
+&ensp;&ensp;&ensp;&ensp;I can do a great job in this position. And the remote opportunity offered by this position is exactly what I'm looking for. I can improve the efficiency of the team, enrich the front-end development docs, bring joy to the team.  
+&ensp;&ensp;&ensp;&ensp;Thanks for your time.  
+&ensp;&ensp;&ensp;&ensp;Best wishes  
+&ensp;&ensp;&ensp;&ensp;Yance Zhang
+
+
