@@ -11,3 +11,10 @@
 - Create a “Hello world” nuxt project locally
 - Try other features if you have time
 
+1. Install the latest node LTS version
+2. Install Vetur with vscode
+3. mkdir Nuxt
+4. npm init nuxt-app viking-nuxtapp
+5. cd viking-nuxtapp
+6. npm run dev
+7. Open http://localhost:3000
