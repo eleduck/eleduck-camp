@@ -6,13 +6,19 @@
 
 # Writing - Linux Basics
 
-- How to check all 'unzip' commands previously run by the user you are currently connected to ?
-- What is the difference between Telnet and SSH?
-SSH is encrypted and based on SSL. Telnet is not encrypted.
+- How to check all 'unzip' commands previously run by the user you are currently connected to ?  
+history | grep "unzip"
 
-- Which Linux command do you use to check the memory usage?
-Use 'free' or 'top' command
+- What is the difference between Telnet and SSH?  
+Telnet and SSH both are communication protocols which are used to manage remote systems. SSH is secured, 
+which requires exchanging of keys opposite of telnet which transmit data in plain text, which means 
+telnet is less secure than SSH.
 
-- Count every occurrence of the term “linux” in all the files appearing under the current directory, and its subdirectories, recursively?
-- How to check which ports are listening in my Linux Server?
-Uset 'netstat -tnlp' command
+- Which Linux command do you use to check the memory usage?  
+■ cat /proc/meminfo ■ free -h ■ top ■ htop
+
+- Count every occurrence of the term “linux” in all the files appearing under the current directory, and its subdirectories, recursively?  
+grep -orI linux . | wc -l
+
+- How to check which ports are listening in my Linux Server?  
+Use the command ‘netstat –ln’ or ‘ss -ntlp’ or ‘lsof -i’
