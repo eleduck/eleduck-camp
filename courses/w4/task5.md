@@ -1,7 +1,10 @@
 # Daily Questions
 
 - What did you do yesterday?
+Created the vaccination graphic on the home page.
 - What will you do today?
+Try to use vue-chartjs.
+Team up and work in pairs with somebody.
 - Is there anything blocking you?
 
 
