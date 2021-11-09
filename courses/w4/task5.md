@@ -1,8 +1,13 @@
 # Daily Questions
 
 - What did you do yesterday?
+  1. Completed each country charts on the details page;
+
 - What will you do today?
+  1. Self-test all functions, optimize code structure; 
+
 - Is there anything blocking you?
+  No
 
 
 # Coding

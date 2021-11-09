@@ -1,9 +1,13 @@
 # Daily Questions
 
 - What did you do yesterday?
-- What will you do today?
-- Is there anything blocking you?
+  1. Completed the dynamic rendering of the country list;
 
+- What will you do today?
+  1. Completed the chart on the homepage, show world statistics;
+
+- Is there anything blocking you?
+  No
 
 # Coding
 
