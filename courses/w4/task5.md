@@ -6,7 +6,7 @@ Created the vaccination graphic on the home page.
 Try to use vue-chartjs.
 Team up and work in pairs with somebody.
 - Is there anything blocking you?
-It seems that vue-chartjs not compatible with chartjs 3.0+ and report warning message in BaseCharts.js, downgrade chart.js to v2, it works.
+It seems that vue-chartjs is not compatible with chartjs 3.0+ and reports warning messages in BaseCharts.js, downgrade chart.js to v2, it works.
 
 # Coding
 
