@@ -2,7 +2,6 @@
 
 Below is the Job description for a software developer role, assuming you are going to apply this position, and try to use the resume and cover letter you have built in previous sessions. To do so, put your CL into a Google Doc and share it with the [coaches](../coaches.md), your CV is already shared with the coaches in week 1 [task 4](../w1/task4.md)
 
-
 ## Background
 
 We are looking for a developer to join a project within a team. We hope you have a bachelor degree in computer engineering, IT or similar with a few years experience, you have quickly developed prototypes and catalyzed product development in a fast paced, fluid environment. You are a hands-on developer with front-end (or full-stack) experience. We would like to see that you are experienced with agile development and software development best practices.

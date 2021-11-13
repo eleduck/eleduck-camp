@@ -1,8 +1,13 @@
 # Daily Questions
 
 - What did you do yesterday?
+  1. Completed the chart on the homepage, show world statistics;
+
 - What will you do today?
+  1. Optimized the details page to obtain data for each country;
+
 - Is there anything blocking you?
+  These were some problems when importing the chart components, because echart can't use in server side. It has been resolved after my analyses.
 
 
 # Coding

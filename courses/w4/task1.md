@@ -1,9 +1,15 @@
 # Daily Questions
 
 - What did you do yesterday?
-- What will you do today?
-- Is there anything blocking you?
+  1. Downloaded the eleduck/covid19 project;
+  2. Reviewed its code;
+  3. Planed the work that needs to be done;
 
+- What will you do today?
+  1. Completed the dynamic rendering of the country list;
+
+- Is there anything blocking you?
+  No
 
 # Coding
 
