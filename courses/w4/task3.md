@@ -7,7 +7,7 @@
   1. Optimized the details page to obtain data for each country;
 
 - Is there anything blocking you?
-  These were some problems when importing the chart components, it has been resolved after my analyses.
+  These were some problems when importing the chart components, because echart can't use in server side. It has been resolved after my analyses.
 
 
 # Coding
