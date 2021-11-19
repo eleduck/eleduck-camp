@@ -1,48 +1,36 @@
 # Welcome to Eleduck Camp 欢迎来到电鸭英语训练营
 
+**Welcome to Eleduck English Camp! Hope you enjoy the camp during the upcoming days!**  
 **This is an on-boarding document for everyone to read in day one!**
 
 
 ## Purpose
 
-- Help developers build a professional ready resume and cover letter in English step by step
-- Exercise Email and/or Slack interactions in English working environment
-- Build new features for a project to understand the work flow and collaboration with teammates in English environment
+* Help developers build a professional ready resume and cover letter in English step by step
+* Simulate an English working environment as much as possible
+* Exercise English reading & writing via tasks
+* Practice communication in English via group interactions and discussions
+* Knowledge sharing about work experience, tech stack, popular tools, system design, way of work and remote jobs, etc.
+* Be ready to apply for new (remote) jobs
+
 
 
 ## Basic Rules & Regulations
 
-- Read this guidelines to have a good understanding of the camp
-- Use English as much as possible
-- The target is to simulate English working environment as much as possible
-- Feel free to ask questions in Slack channels
-- Please be nice and friendly to each other and try to help each other to have a good learning experience
+* Please read carefully about guidelines and instructions in each tasks
+* Use English as much as you can
+* Feel free to ask questions
+* Please be nice and friendly to each other and try to help each other to have a good learning experience
 
 
 ## Way of Work
 
-The training camp has four weeks as a period. And there will be one squeeze day at the end of each week, to align with all students, in case someone was delayed with tasks by any reasons. The training camp will mix with tasks, online lectures and coding practice, etc. The **courses** folder in this repo contains courses schedule and tasks for each week, it is recommended to work on one task per day, but feel free to adjust on your own pace. 
-
-To work on tasks, please create a **separate branch** in this repository, and try to answer at least **three** questions for each task in the same file and send a Pull Request, the coach will help to review the solutions. **Important**: Please DO **NOT** push to **main** branch, work ONLY on your own branch, your PR will NOT be merged.
-
-And it is better to name the title of your PR with your GitHub name with week number as suffix, e.g. HarryPotter-Week1, so that it is easier for the coach to keep track of the tasks progress. And close the former PR before creating a new one for next week.
-
-Furthermore, we have a spelling check which will be automatic triggered by push and PRs. If you want to add new words that are not recognized yet, feel free to update the [dictionary](https://github.com/eleduck/eleduck-camp/blob/main/.cspell/eleduck-words.txt) file and send a separate PR, we can review and merge it.
-
-
-
-## Slack
-
-In **Eleduck Camp** Slack, there are a few channels:
-
-- **announcement** is used to make announcement or send notification for everyone in the Eleduck Camp Slack.
-- **daily_task** is used to discuss daily tasks and interact between the coach and students. Feel free to ask questions in this channel if they are related to the daily assignments.
-- **english_chat** is used for anything around English topics, we will invite external contributors to join and actively chat and discuss in this channel.
-
-
-## GitHub
-
-- We will use this [GitHub Project Board](https://github.com/eleduck/covid19/projects/1) to simulate an Agile Development Board
-- We will work together on a [project](https://github.com/eleduck/covid19) to implement some cool features
-- Last but not least, we have an awesome [list](https://github.com/eleduck/English4Developers) we plan to open source in the long term, feel free to contribute!
-
+* We combine online lectures & tasks
+* We use Zoom for online lectures
+* We use wechat group for daily communication and notification
+* We use Gmail to send tasks
+* We use Google Docs to do the tasks
+* We use Google Form to submit the tasks
+* You will receive tasks from your emails during the first 2 weeks and use Google Docs to do the writing
+* Sharing your Google doc with the right permission (Editor or Commenter), and submit the shared link with Google Form
+* We have an awesome [list](https://github.com/eleduck/English4Developers) to collect useful information, please feel free to contribute
