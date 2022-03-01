@@ -1,14 +1,3 @@
-# Reading
+# Writing - Put all together
 
-* [Manifesto for Agile Software Development](http://www.scrummanifesto.org/)
-* [What is Scrum](https://www.scrum.org/resources/what-is-scrum)
-* [Scrum](https://www.atlassian.com/agile/scrum)
-
-
-# Writing - Daily Scrum
-
-* What did you do yesterday?
-* What will you do today?
-* Is there anything blocking you?
-
-Note: Please write at least 100 words for the 1st and 2nd questions, the last question can be simple if nothing blocks you.
+* Gather the information from former tasks to form up your Cover Letter in a standalone Google Doc. Try to find a job post from [eleduck](https://eleduck.com/) which you feel it's a good match to your background, and target that position to update your Cover Letter correspondly.

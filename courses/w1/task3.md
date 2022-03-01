@@ -5,7 +5,10 @@
 
 # Writing - Describe your previous projects
 
-* Talk about your former companies and projects
-* What tech stack have you used in your former projects?
-* What were your roles and responsibilities?
-* Which is your favorite project and why?
+* What did you do in your last work? 
+  - What tech stack have you used in your former projects?
+  - What were your roles and responsibilities?
+  - What database have you used in your former team?
+  - What achievements have you done in your former job?
+  - What was the most important feature you created?
+  - Which is your favorite project and why?
