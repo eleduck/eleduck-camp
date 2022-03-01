@@ -28,9 +28,7 @@
 * We combine online lectures & tasks
 * We use Zoom for online lectures
 * We use wechat group for daily communication and notification
-* We use Gmail to send tasks
 * We use Google Docs to do the tasks
-* We use Google Form to submit the tasks
-* You will receive tasks from your emails during the first 2 weeks and use Google Docs to do the writing
-* Sharing your Google doc with the right permission (Editor or Commenter), and submit the shared link with Google Form
+* We use Trello to submit tasks and book 1-on-1 meetings.
+* After finishing your task, please set your Google doc file with the right permission (Editor or Commenter)
 * We have an awesome [list](https://github.com/eleduck/English4Developers) to collect useful information, please feel free to contribute
