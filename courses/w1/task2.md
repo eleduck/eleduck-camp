@@ -11,5 +11,5 @@
   - What database do you use in your team?
   - What improvements have you made to your product/system?
   - What are the main features or functions you have created?
-  - Do you have testing automation? What about the test coverage？
+  - Do you have testing automation? What about the test coverage?
   - Is there any technical document you need to write?
